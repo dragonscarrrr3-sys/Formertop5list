@@ -1,24 +1,11 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+    "id": 119550490,
+    "name": "Amethyst",
+    "author": "Mist",
+    "creators": ["IvashkaUA", "NoobyPro27", "iMinAY", "BeClaNin0", "titoalper", "roselyne", "ItsxEcho", "GamerKnight750", "Uriun112", "3DADronX", "SnomGMD", "Bedrock"],
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=4lfkzz1VCbA",
+    "percentToQualify": 59,
+    "password": "Not Copyable",
+    "records": []
 }
